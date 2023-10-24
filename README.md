@@ -5,11 +5,11 @@ Este é uma aplicação web para previsão do tempo. Foi utilizado HTML, CSS e J
 # Funcionalidades do Aplicativo: ⚙️
 
 
-Exibe a previsão do tempo atual e em tempo real.
+ Exibe a previsão do tempo atual e em tempo real.
 
-Exibe a temperatura atual em graus celsius, descrição do clima e umidade.
+ Exibe a temperatura atual em graus celsius, descrição do clima e umidade.
 
-Exibição do ícone que representa o clima atual.
+ Exibição do ícone que representa o clima atual.
 
 
 
